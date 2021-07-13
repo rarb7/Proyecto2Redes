@@ -1,0 +1,9 @@
+D:\UCR\UCR 2021\l Semestre\Redes\Proyecto2_redes\Controller_Node\Controller_Node\obj\Debug\Controller_Node.Properties.Resources.resources
+D:\UCR\UCR 2021\l Semestre\Redes\Proyecto2_redes\Controller_Node\Controller_Node\obj\Debug\Controller_Node.csproj.GenerateResource.cache
+D:\UCR\UCR 2021\l Semestre\Redes\Proyecto2_redes\Controller_Node\Controller_Node\obj\Debug\Controller_Node.csproj.CoreCompileInputs.cache
+D:\UCR\UCR 2021\l Semestre\Redes\Proyecto2_redes\Controller_Node\Controller_Node\bin\Debug\Controller_Node.exe.config
+D:\UCR\UCR 2021\l Semestre\Redes\Proyecto2_redes\Controller_Node\Controller_Node\bin\Debug\Controller_Node.exe
+D:\UCR\UCR 2021\l Semestre\Redes\Proyecto2_redes\Controller_Node\Controller_Node\bin\Debug\Controller_Node.pdb
+D:\UCR\UCR 2021\l Semestre\Redes\Proyecto2_redes\Controller_Node\Controller_Node\obj\Debug\Controller_Node.exe
+D:\UCR\UCR 2021\l Semestre\Redes\Proyecto2_redes\Controller_Node\Controller_Node\obj\Debug\Controller_Node.pdb
+D:\UCR\UCR 2021\l Semestre\Redes\Proyecto2_redes\Controller_Node\Controller_Node\obj\Debug\Controller_Node.csprojAssemblyReference.cache
